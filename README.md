@@ -14,6 +14,6 @@ Builds for production and deployment.
 
 Run dev server with nodemon
 
-Hi I made this Chnage! in DevBox!!
+Hi I made this Change! in DevBox!!
 
-Hi I made this Chnage on GitHub!!!
+Hi I made this Change on GitHub!!!
